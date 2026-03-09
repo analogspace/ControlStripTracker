@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|c:\\users\\micha\\source\\repos\\controlstriptracker\\processcontrol(.net8)\\formnewreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|solutionrelative:processcontrol(.net8)\\formnewreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|c:\\users\\micha\\source\\repos\\controlstriptracker\\processcontrol(.net8)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|solutionrelative:processcontrol(.net8)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|c:\\users\\micha\\source\\repos\\controlstriptracker\\processcontrol(.net8)\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|solutionrelative:processcontrol(.net8)\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|C:\\Users\\micha\\source\\repos\\ControlStripTracker\\processcontrol(.net8)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|solutionrelative:processcontrol(.net8)\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|c:\\users\\micha\\source\\repos\\controlstriptracker\\processcontrol(.net8)\\formnewreferencestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|solutionrelative:processcontrol(.net8)\\formnewreferencestrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|c:\\users\\micha\\source\\repos\\controlstriptracker\\processcontrol(.net8)\\patchvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEAF2BF-51C1-4E7F-94C5-E300E5D301B9}|ProcessControl(.Net8)\\ProcessControl(.Net8).csproj|solutionrelative:processcontrol(.net8)\\patchvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormNewReading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\FormNewReading.cs",
+              "RelativeDocumentMoniker": "ProcessControl(.Net8)\\FormNewReading.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\FormNewReading.cs [Design]",
+              "RelativeToolTip": "ProcessControl(.Net8)\\FormNewReading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T20:58:14.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNewReferenceStrip.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\FormNewReferenceStrip.cs",
+              "RelativeDocumentMoniker": "ProcessControl(.Net8)\\FormNewReferenceStrip.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\FormNewReferenceStrip.cs",
+              "RelativeToolTip": "ProcessControl(.Net8)\\FormNewReferenceStrip.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAvwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:28:37.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatchValue.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\PatchValue.cs",
+              "RelativeDocumentMoniker": "ProcessControl(.Net8)\\PatchValue.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\PatchValue.cs",
+              "RelativeToolTip": "ProcessControl(.Net8)\\PatchValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T23:27:43.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reading.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\Reading.cs",
+              "RelativeDocumentMoniker": "ProcessControl(.Net8)\\Reading.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\Reading.cs",
+              "RelativeToolTip": "ProcessControl(.Net8)\\Reading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T23:05:15.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\MainForm.cs",
+              "RelativeDocumentMoniker": "ProcessControl(.Net8)\\MainForm.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\MainForm.cs",
+              "RelativeToolTip": "ProcessControl(.Net8)\\MainForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAhwEsAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:42:46.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\MainForm.cs",
+              "RelativeDocumentMoniker": "ProcessControl(.Net8)\\MainForm.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\ControlStripTracker\\ProcessControl(.Net8)\\MainForm.cs [Design]",
+              "RelativeToolTip": "ProcessControl(.Net8)\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:35:38.009Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
